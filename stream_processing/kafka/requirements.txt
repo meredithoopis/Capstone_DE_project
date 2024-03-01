@@ -1,0 +1,9 @@
+python-dotenv
+psycopg2-binary
+fastparquet
+sqlalchemy
+pandas
+confluent-kafka
+requests
+fastavro
+kafka-python

@@ -1,0 +1,14 @@
+{
+    "name": "nyc_taxi-cdc",  
+    "config": {
+      "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+      "database.hostname": "postgresql",
+      "database.port": "5432",
+      "database.user": "helen",
+      "database.password": "helen",
+      "database.dbname" : "helen",
+      "plugin.name": "pgoutput",
+      "database.server.name": "nyc_taxi",
+      "table.include.list": "public.nyc_taxi"
+    }
+}

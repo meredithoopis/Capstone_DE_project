@@ -1,0 +1,15 @@
+pandas
+minio
+PyYAML
+deltalake
+numpy
+pyspark
+psycopg2-binary
+sqlalchemy
+confluent-kafka
+python-dotenv
+apache-flink
+apache-airflow
+apache-airflow-providers-postgres
+airflow-provider-great-expectations
+apache-airflow-providers-docker
